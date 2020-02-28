@@ -1,4 +1,4 @@
-# FudanPT-update2020
+# FudanPT-new
 复旦大学研究生入学考试初试成绩爬取，都怪复旦大学不提供排名
 >
 >感谢学长提供的**FudanPT**开源项目https://github.com/CDOTAD/FudanPT
