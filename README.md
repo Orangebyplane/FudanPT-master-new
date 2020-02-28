@@ -13,7 +13,7 @@
 
 ## UPDATES:
 
-修改数据库为sqlite3，无需nginx即可轻量上线，可刷新验证码
+修改数据库为sqlite3，无需nginx即可轻量上线，更改界面ui
 
 ## GUIDE：
 
