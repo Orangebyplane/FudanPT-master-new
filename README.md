@@ -28,6 +28,7 @@ django、bs4、sqlite、numpy
 `python manage.py migrate`
 
 运行程序前请先创建sqlite3数据库
+
 `python createdb.py`
 
 后台运行django项目：
