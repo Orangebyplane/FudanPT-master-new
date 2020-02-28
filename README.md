@@ -19,14 +19,15 @@
 
 安装所需库：
 
-django、bs4、sqlite、numpy?
+django、bs4、sqlite、numpy
 
 进入目录文件夹，准备迁移：
 
 `python manage.py makemigrations`
 
 `python manage.py migrate`
-
+运行程序前请先创建sqlite3数据库
+`python createdb.py`
 后台运行django项目：
 
 `nohup python manage.py runserver 0.0.0.0:8888 &`
